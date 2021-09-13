@@ -1,0 +1,26 @@
+content:
+- Introduction to Java
+- Overview of the basic program
+- Printing data
+- Comments
+- Scanning the input
+- Integer types and operations
+- Increment and decrement
+- String
+- Relational operators
+- Conditional statement
+- The for-loop
+- The while and do-while loops
+- Switch statement
+- Calling a method
+- Declaring a method
+- Functional decomposition
+- Array
+- Iterating over arrays
+- Arrays as parameters
+- Defining classes
+- Constructor
+- Instance methods
+- Objects
+- Static members
+- Enums in Java
